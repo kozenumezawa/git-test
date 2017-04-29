@@ -14,3 +14,9 @@ git log --graph
 git remote -v
 git push origin master
 githubの確認
+
+# プルリクの書き方
+git branch test
+git branch
+git checkout test
+vim test.md
