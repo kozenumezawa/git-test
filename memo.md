@@ -20,3 +20,7 @@ git branch test
 git branch
 git checkout test
 vim test.md
+git push origin test
+githubでマージ
+git fetch
+git merge origin/master
